@@ -6,7 +6,6 @@ class Puppy
     @name = name
     @breed = breed
     @months_old = months_old
-    self.new(name, breed, months_old)
   end
 
 
