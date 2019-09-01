@@ -6,7 +6,10 @@ class Puppy
     @name = name
     @breed = breed
     @months_old = months_old
+  end
 
+  def name(name)
+    name
   end
 
 
