@@ -8,9 +8,7 @@ class Puppy
     @months_old = months_old
   end
 
-  def name(name)
-    @name
-  end
+  
 
 
 
