@@ -9,6 +9,10 @@ class Puppy
     self.new(name, breed, months_old)
   end
 
+  def name(name)
+    @name
+  end
+
 
 
 
